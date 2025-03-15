@@ -58,11 +58,3 @@ O objetivo deste projeto é desenvolver um **aplicativo móvel completo** para u
 - **Wesley Matheus Santos Silva**
 
 ---
-
-### **Diferenciais do Projeto**
-
-- **Usabilidade**: A navegação intuitiva e as interações rápidas garantem uma experiência fluida para o usuário.
-- **Flexibilidade**: O uso de filtros e pesquisa no catálogo de produtos permite que os usuários encontrem rapidamente o que desejam.
-- **Segurança**: A implementação de validação de formulários no login e cadastro garante a integridade dos dados inseridos pelo usuário.
-- **Integração com WhatsApp**: A possibilidade de contato direto com a pizzaria via WhatsApp melhora o atendimento ao cliente e facilita a comunicação.
-- **Visual Atraente**: Combinação de imagens de fundo, ícones e cores consistentes para criar uma interface visualmente agradável e alinhada à identidade da marca.
